@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python & deep learning.
 - 💞️ I’m looking to collaborate on nothing 😂
 - 📫 How to reach me? Nah you won't.
-- 😄 Pronouns: he/his
+- 😄 Pronouns: they/them/goldfish
 - ⚡ Fun fact: I'm the finest guy in the world, you know.
 
 <!---
